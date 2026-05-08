@@ -4,9 +4,9 @@ Digitalitzant les petites i mitjanes empreses.
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Pau Constanseu
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]: 
+Formant grups de treball: Pol Serrano i Pau Constanseu
 
 ## Descripció del projecte
 
