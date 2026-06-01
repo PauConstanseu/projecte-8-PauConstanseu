@@ -6,7 +6,7 @@ Digitalitzant les petites i mitjanes empreses.
 
 Nom: Pau Constanseu
 
-Formant grups de treball: Pol Serrano i Pau Constanseu
+Formant grups de treball: Pol Serrano, Blai Verges i Pau Constanseu
 
 ## Descripció del projecte
 
