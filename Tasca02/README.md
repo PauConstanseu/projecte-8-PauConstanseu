@@ -49,5 +49,6 @@ Com a lliurable final de l'activitat, es va consolidar un document global de sos
 
 La realització d'aquest pla ha permès demostrar la importància crítica de **conjugar criteris tècnics, econòmics i mediambientals** en la gestió diària d'infraestructures tecnològiques. Amb la implementació d'aquestes mesures, el sector de les TIC no només optimitza els seus costos de facturació elèctrica, sinó que promou de manera activa un model de negoci molt més eficient, humà, responsable i compromès amb l'entorn.
 
+---
 
 [Solució a l'activitat](https://github.com/polserrano/projecte8/blob/main/Tasca_02/solucio.md)
