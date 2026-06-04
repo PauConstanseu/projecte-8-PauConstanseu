@@ -51,4 +51,4 @@ La realització d'aquest pla ha permès demostrar la importància crítica de **
 
 ---
 
-[Solució a l'activitat](https://github.com/polserrano/projecte8/blob/main/Tasca_02/solucio.md)
+[Solució a l'activitat](/Tasca02/solucio.md)
